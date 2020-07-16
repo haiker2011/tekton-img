@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-skaffold/leeroy-app
+FROM gcr.io/k8s-skaffold/leeroy-app@sha256:e1d0f3dc1c8c2cabe05e11f4b7d1607e1cd362055b6f431d4ee9bd9dcbc519ad
