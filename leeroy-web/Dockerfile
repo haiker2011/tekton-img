@@ -1,1 +1,1 @@
-FROM gcr.io/christiewilson-catfactory/leeroy-web
+FROM gcr.io/k8s-skaffold/leeroy-web

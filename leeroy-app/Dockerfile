@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-skaffold/leeroy-app
